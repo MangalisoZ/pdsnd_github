@@ -1,13 +1,13 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
+### Project Created From
+South Africa, in Johannesburg on 04th of September 2025
 
 ### Project Title
-Replace the Project Title
+Mangaliso Zembe's git-magic
 
 ### Description
-Describe what your project is about and what it does
+Let the magic speak for itself
 
 ### Files used
 Include the files used
