@@ -15,3 +15,8 @@ bikeshare_2.py and data csv files
 ### Credits
 Shout out to Udacity! 
 
+### My social page
+follow me on LinkedIn: Mangaliso Zembe
+
+### My Location
+South Africa, Johannesburg.
